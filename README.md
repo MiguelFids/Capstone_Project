@@ -7,8 +7,6 @@ Chao Qun S. </br>
 Julia G. </br>
 Miguel F. </br>
 
-
-
 ### Project Idea
 
 We are creating a supervised machine learning model to predict if a client would have diabetes given the data. The files were downloaded from https://www.kaggle.com/datasets/prosperchuks/health-dataset?select=diabetes_data.csv.
@@ -16,6 +14,10 @@ We are creating a supervised machine learning model to predict if a client would
 ### Machine Learning Model
 
 ![Logistic Regression](images/Machine%20Learning%20Mockup.png "Logistic Regression")
+
+### Dashboard
+
+![Planned Dashboard](images/Dashboard_plan.png "Temporary Dashboard")
 
 ### Data Exploration
 
@@ -33,3 +35,4 @@ Five questions we plan to answer:
 3. Is there a correlation between BMI and diabetes onset?
 4. Is one gender more likely to develop diabetes? 
 5. Negative correlation - heavy consumers are less likely to develop diabetes?
+
