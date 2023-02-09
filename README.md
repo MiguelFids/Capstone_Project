@@ -15,10 +15,6 @@ We are creating a supervised machine learning model to predict if a client would
 
 ![Logistic Regression](images/Machine%20Learning%20Mockup.png "Logistic Regression")
 
-### Dashboard
-##### Temporary for deliverable 1, will remove once del 1 graded
-![Planned Dashboard](images/Dashboard_plan.png "Temporary Dashboard")
-
 ### Dasboard
 https://public.tableau.com/app/profile/areej7838/viz/Diabetes_16753024580310/Dashboard1
 
